@@ -12,7 +12,7 @@ The python script consists of runs a loop for a duration of 5 hours and send the
 
 1. Python 3.6 or above
 2. MQTT Client (mosquitto for MacOS)
-3. Setup a demo account on [thingsboard.io](demo.thingsboard.io)
+3. Setup a demo account on [thingsboard.io](https://demo.thingsboard.io)
 4. Get the access token from the thingsboard.io for the device you want to send the data to.
 
 ---
